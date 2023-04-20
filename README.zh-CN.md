@@ -1,20 +1,20 @@
 ![](./assets/preview_zh.png)
 
-<h2 align="center">ChatGPT-Vercel</h2>
+<h2 align="center">Nectargpt-Vercel</h2>
 
 <p align="center">
-  <a href="https://github.com/GPTGenius/chatgpt-vercel/tags">
-    <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/GPTGenius/chatgpt-vercel">
+  <a href="https://github.com/GPTGenius/nectargpt-vercel/tags">
+    <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/GPTGenius/nectargpt-vercel">
   </a>
-  <a href="https://github.com/GPTGenius/chatgpt-vercel/blob/main/LICENSE">
-    <img alt="license" src="https://img.shields.io/github/license/GPTGenius/chatgpt-vercel">
+  <a href="https://github.com/GPTGenius/nectargpt-vercel/blob/main/LICENSE">
+    <img alt="license" src="https://img.shields.io/github/license/GPTGenius/nectargpt-vercel">
   </a>
 </p>
 
 [English](./README.md) | 简体中文
 
 ## 简介
-通过 Vercel 一键免费创建私有的 ChatGPT 站点， 支持多组 **文本**、**图像生成** 对话。由 OpenAI API 和 Vercel 提供支持。
+通过 Vercel 一键免费创建私有的 Nectargpt 站点， 支持多组 **文本**、**图像生成** 对话。由 OpenAI API 和 Vercel 提供支持。
 
 
 ## 主要功能
@@ -26,8 +26,8 @@
 - 💭 聊天记录本地保存，支持搜索
 
 ## 在线示例
-- [chatgpt-vercel-zh-sample](https://chatgpt-vercel-zh-sample.vercel.app/)
-- [chatgpt-vercel-sample](https://chatgpt-vercel-sample.vercel.app/)
+- [nectargpt-vercel-zh-sample](https://nectargpt-vercel-zh-sample.vercel.app/)
+- [nectargpt-vercel-sample](https://nectargpt-vercel-sample.vercel.app/)
 
 ## 使用指南
 可以访问上面的在线示例或者自己私有化部署进行体验
@@ -61,7 +61,7 @@
 ### 1. 创建项目
 从 github fork 的仓库（推荐）或者直接从下面的 **Deploy** 按钮创建一个 Vercel 项目。
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GPTGenius/chatgpt-vercel&env=OPENAI_API_KEY&env=LANGUAGE)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GPTGenius/nectargpt-vercel&env=OPENAI_API_KEY&env=LANGUAGE)
 
 ### 2. 设置 OPENAI_API_KEY
 有三种方式设置你的 OpenAI API Key:
@@ -69,7 +69,7 @@
 - 把 `.env.expample` 文件重命名为 `.env` 然后设置 **OPENAI_API_KEY**
 - 直接在页面中填写 **OPENAI_API_KEY** 
 
-如果没有 OpenAI API Key 可查看 [也许是时候拥有自己的「ChatGPT」了](https://juejin.cn/post/7210274432332939322)
+如果没有 OpenAI API Key 可查看 [也许是时候拥有自己的「Nectargpt」了](https://juejin.cn/post/7210274432332939322)
 
 ### 3. 设置默认语言
 站点的默认语言是英文的，页面中支持切换语言，如果你希望部署一个默认中文站点，可以设置 **LANGUAGE** 为 `zh`，支持在 Vercel 环境变量和 `.env` 文件中配置
@@ -145,8 +145,8 @@
 - 新增功能支持，可以直接提 issue
 
 ## 致谢
-- 英文预设提示修改自：[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-- 中文预设提示修改自： [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+- 英文预设提示修改自：[awesome-nectargpt-prompts](https://github.com/f/awesome-nectargpt-prompts)
+- 中文预设提示修改自： [awesome-nectargpt-prompts-zh](https://github.com/PlexPt/awesome-nectargpt-prompts-zh)
 
 ## 协议
 基于 [MIT 协议](./LICENSE)
