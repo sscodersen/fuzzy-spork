@@ -1,6 +1,6 @@
 {
-  "default_text_tips": "Powered by OpenAI and Vercel\n- Chat with us now. Press `Enter` to send and `Shift`+`Enter` to add a new line. \n- Input `/` or click the button at the bottom left to add a preset prompt",
-  "default_image_tips": "Powered by OpenAI and Vercel\n- Chat with us now. Press `Enter` to send and `Shift`+`Enter` to add a new line. \n- The image generation does not support continuous dialogue. Please input directly the desired image effect, for example: `a cat`.\n- The effective access time for the image link is `2` hours. Please make sure to save it in time if necessary.",
+  "default_text_tips": "Powered by OpenAI and Sphrex Labs\n- Chat with us now. Press `Enter` to send and `Shift`+`Enter` to add a new line. \n- Input `/` or click the button at the bottom left to add a preset prompt",
+  "default_image_tips": "Powered by OpenAI and Sphrex Labs\n- Chat with us now. Press `Enter` to send and `Shift`+`Enter` to add a new line. \n- The image generation does not support continuous dialogue. Please input directly the desired image effect, for example: `a cat`.\n- The effective access time for the image link is `2` hours. Please make sure to save it in time if necessary.",
   "chat_placeholder": "Start a conversation",
   "empty_conversation": "Please select a conversation",
   "search_placeholder": "Search",
@@ -20,7 +20,7 @@
   "config_images_size": "Size of generated images:",
   "config_language": "Language:",
   "config_password": "Password:",
-  "status_loading": "AI is thinking...",
+  "status_loading": "NectarGPT is thinking...",
   "status_empty": "New Conversation",
   "status_image_expired": "Image has expired",
   "chat_mode_text": "Text conversation",
