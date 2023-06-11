@@ -75,7 +75,7 @@ const Sidebar: FC<{
           target="_blank"
           rel="noreferrer"
         >
-          <i class="ml-2 ri-download-fill text-xl"></i>
+          <i className="ml-2 ri-download-fill text-xl" />
         </a>
       </div>
       <div className="p-2 flex items-center justify-between mb-4">
