@@ -79,7 +79,6 @@ const Sidebar: FC<{
         </a>
       </span>
       <a
-        <a
           href="https://github.com/socialtribexyz/Nectar-GPT"
           target="_blank"
           rel="noreferrer"
