@@ -69,14 +69,16 @@ const Sidebar: FC<{
   return (
     <div className="flex flex-col h-full bg-white">
       <div className="p-4 mt-2 flex items-baseline justify-between">
+      <span className="text-3xl text-gradient font-[800]">
+        <a
+          href="https://github.com/socialtribexyz/Nectar-GPT"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Nectargpt+
+        </a>
+      </span>
       <a
-        href="https://github.com/socialtribexyz/Nectar-GPT"
-        target="_blank"
-        rel="noreferrer"
-        className="text-3xl text-gradient font-[800]"
-      >
-        Nectargpt+
-      </a>
         <a
           href="https://github.com/socialtribexyz/Nectar-GPT"
           target="_blank"
