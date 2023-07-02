@@ -71,11 +71,11 @@ const Sidebar: FC<{
       <div className="p-4 mt-2 flex items-baseline justify-between">
       <span class="text-3xl text-gradient font-[800]">Nectargpt+</span>
       <a
-          href="https://github.com/socialtribexyz/Nectar-GPT"
+          href="https://dlupload.com/filedetail/1706841644"
           target="_blank"
           rel="noreferrer"
         >
-          <i className="ml-2 ri-download-fill text-xl" />
+          <i className="ml-2 ri-plus-fill text-xl" />
         </a>
       </div>
       <div className="p-2 flex items-center justify-between mb-4">
